@@ -1,0 +1,51 @@
+{
+    "Other": {
+        "N's Zoroark": {
+            "pokemon": {
+                "N's Zoroark ex": 3
+            }
+        },
+        "Hop's Zacian": {
+            "pokemon": {
+                "Hop's Zacian ex": 1,
+                "Hop's Snorlax": 1,
+                "Hop's Cramorant": 1
+            }
+        },
+        "Slowking": {
+            "pokemon": {
+                "Slowking": 2
+            }
+        },
+        "Roaring Moon": {
+            "pokemon": {
+                "Roaring Moon ex": 2,
+                "Brute Bonnet": 1
+            },
+            "trainer": {
+                "Professor Sada's Vitality": 1
+            }
+        },
+        "Tera Box": {
+            "pokemon": {
+                "Teal Mask Ogerpon ex": 1,
+                "Wellspring Mask Ogerpon ex": 1,
+                "Pikachu ex": 1
+            }
+        },
+        "Milotic": {
+            "pokemon": {
+                "Cornerstone Mask Ogerpon ex": 1,
+                "Milotic ex": 1,
+                "Farigiraf ex": 1
+            }
+        }
+    },
+    "Archaludon": {
+        "Archaludon Zoroark": {
+            "pokemon": {
+                "N's Zoroark ex": 32
+            }
+        }
+    }
+}

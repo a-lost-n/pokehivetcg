@@ -6,9 +6,6 @@ from variables import LIMITLESS_BASE_ENDPOINT, LIMITLESS_DECKS_ENDPOINT
 card_dict = {}
 arch_dict = {}
 
-# with open('archetypes.json', 'r') as file:
-#     arch_dict = json.load(file)
-
 def pull_decks(endpoint):
     global card_dict, arch_dict
     with requests.get(endpoint) as deck_table_page:
